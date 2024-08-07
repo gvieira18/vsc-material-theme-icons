@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [3.7.0](https://github.com/material-theme/vsc-material-theme-icons/compare/v3.6.1...v3.7.0) (2024-08-07)
+
+
+### Features
+
+* add playwright.config.ts icon ([828d3ce](https://github.com/material-theme/vsc-material-theme-icons/commit/828d3cee1335ab51897e9760d08c5a1825fa8f24)), closes [#246](https://github.com/material-theme/vsc-material-theme-icons/issues/246)
+
 ### [3.6.1](https://github.com/material-theme/vsc-material-theme-icons/compare/v3.6.0...v3.6.1) (2024-06-12)
 
 
