@@ -213,5 +213,6 @@
   ".bunfig.toml": "_file_bun",
   "bunfig.toml": "_file_bun",
   "go.mod": "_file_go-mod",
-  "go.sum": "_file_go-sum"
+  "go.sum": "_file_go-sum",
+  "playwright.config.ts": "_file_playwright"
 },
