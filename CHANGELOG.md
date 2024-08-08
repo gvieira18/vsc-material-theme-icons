@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [3.8.0](https://github.com/material-theme/vsc-material-theme-icons/compare/v3.7.0...v3.8.0) (2024-08-08)
+
+
+### Features
+
+* update folder icons ([f2b5f35](https://github.com/material-theme/vsc-material-theme-icons/commit/f2b5f3553f881ddac1044b5056bc7bd0debfb7c5))
+
 ## [3.7.0](https://github.com/material-theme/vsc-material-theme-icons/compare/v3.6.1...v3.7.0) (2024-08-07)
 
 
