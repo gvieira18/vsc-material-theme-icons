@@ -14,7 +14,7 @@ const replaceNameWithAccent = (name: string, accentName: string): string =>
   name.replace('.svg', `.accent.${ accentName }.svg`);
 
 const replaceSVGColour = (filecontent: string, colour: string): string =>
-  filecontent.replace(new RegExp('#(80CBC4)', 'i'), ($0, $1) => {
+  filecontent.replace(new RegExp('#(80CBC4)', 'gi'), ($0, $1) => {
     const newColour = colour.replace('#', '');
     return $0.replace($1, newColour);
   });

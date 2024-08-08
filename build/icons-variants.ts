@@ -7,7 +7,7 @@ import {IDefaults} from '../typings/interfaces/defaults';
 import {IThemeIconsVariants, IThemeIconsItem} from '../typings/interfaces/icons';
 
 const writeIconVariant = (filepath: string, destpath: string, colour: string): void => {
-  const regexp = new RegExp('(#4a616c)', 'gi');
+  const regexp = new RegExp('(#587380)', 'gi');
   const finalFilePath = path.join(process.cwd(), PATHS.icons, filepath);
   const finalDestpath = path.join(process.cwd(), PATHS.icons, destpath);
 

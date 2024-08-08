@@ -161,18 +161,18 @@
     "Deepforest": "eq-material-theme-icons-deepforest"
   },
   "themeVariantsColours": {
-    "Darker": "#424242",
+    "Darker": "#636363",
     "Darker High Contrast": "#424242",
-    "Default": "#4A616C",
-    "Default High Contrast": "#4A616C",
+    "Default": "#587380",
+    "Default High Contrast": "#587380",
     "Light": "#90A4AE",
     "Light High Contrast": "#90A4AE",
-    "Palenight": "#4E5579",
-    "Palenight High Contrast": "#4E5579",
-    "Ocean": "#474C60",
-    "Ocean High Contrast": "#474C60",
-    "Deepforest": "#375844",
-    "Deepforest High Contrast": "#375844"
+    "Palenight": "#686F93",
+    "Palenight High Contrast": "#686F93",
+    "Ocean": "#5B6380",
+    "Ocean High Contrast": "#5B6380",
+    "Deepforest": "#487A5C",
+    "Deepforest High Contrast": "#487A5C"
   },
   "variantsIcons": [
     "_folder_nginx",
