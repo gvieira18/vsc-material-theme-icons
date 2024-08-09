@@ -3,7 +3,8 @@
 <a href="https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme#review-details"><img src="https://img.shields.io/badge/marketplace-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/></a>
 </p>
 
----
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmineblocks.com%2F1%2Fwiki%2Fimages%2F5%2F59%2FEmpty.png&f=1&nofb=1&ipt=272d1bf6ef886b68f90fc4b76685cf3d69c29691db2a6136a83a4f99e53db919&ipo=images" height="30">
+
 ## Table of contents
 
 The most epic file icon theme for Visual Studio Code. This icon theme is made to be used with [Material Theme for Vscode](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme#review-details) for an immersive experience.
@@ -12,6 +13,8 @@ The most epic file icon theme for Visual Studio Code. This icon theme is made to
   - [Installation](#installation)
   - [Activate theme](#activate-theme)
   - [Fix File Icons](#fix-file-icons)
+
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmineblocks.com%2F1%2Fwiki%2Fimages%2F5%2F59%2FEmpty.png&f=1&nofb=1&ipt=272d1bf6ef886b68f90fc4b76685cf3d69c29691db2a6136a83a4f99e53db919&ipo=images" height="30">
 
 # Getting started
 
@@ -32,6 +35,8 @@ ext install material theme icons
 
 And pick the one by **Mattia Astorino** (me) as author.
 
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmineblocks.com%2F1%2Fwiki%2Fimages%2F5%2F59%2FEmpty.png&f=1&nofb=1&ipt=272d1bf6ef886b68f90fc4b76685cf3d69c29691db2a6136a83a4f99e53db919&ipo=images" height="30">
+
 
 ## Activate theme
 
@@ -42,6 +47,8 @@ Launch *Quick Open*:
   - <img src="https://www.microsoft.com/favicon.ico" width=16 height=16/> <a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf">Windows</a> `Ctrl + Shift + P`
 
 Type `icon theme`, choose `Preferences: File Icon Theme`, and select one of the Material Theme Icons variants from the list. After activation, the icons will appear in your explorer sidebar.
+
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmineblocks.com%2F1%2Fwiki%2Fimages%2F5%2F59%2FEmpty.png&f=1&nofb=1&ipt=272d1bf6ef886b68f90fc4b76685cf3d69c29691db2a6136a83a4f99e53db919&ipo=images" height="30">
 
 ## Fix File Icons
 
